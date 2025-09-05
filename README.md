@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hallo, I'm Hinata
 
-<!--
-**hinatanguyen/hinatanguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a devops engineering and game developer  
+Here’s where you can find me:
 
-Here are some ideas to get you started:
+- 🌐 Facebook: [@kandorinnn](https://www.facebook.com/kandorinnn/)
+- 🐘 Twitter: [@kandorinn](https://x.com/kandorinn)
+- 📸 Instagram: [@kandorinnn](https://www.instagram.com/kandorinnn/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools I Love
+- VS Code
+- Unity & UE5
+- Azure, AWS
+- Ren'Py (sorry Im broke T^T)
